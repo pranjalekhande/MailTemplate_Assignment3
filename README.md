@@ -11,7 +11,7 @@
 The project outlines an implementation for an application tasked with automating email generation. Each email is customizable depending on the associated customer type.
 
 # GitHub Repository Link:
-https://github.com/{YOUR_USERNAME}/cs-665-assignment-{ASSIGNMENT_NUMBER}
+https://github.com/pranjalekhande/MailTemplate_Assignment3.git
 
 # Implementation Description 
 The project's foundation rests on the `EmailGenerationTemplate`class, which employs the template method design pattern to establish a blueprint for generating emails. This pattern decomposes the email creation process into discrete steps, represented by methods within the `generateEmail` function. The execution sequence of these steps is dictated by the implementation of the overarching template method.
